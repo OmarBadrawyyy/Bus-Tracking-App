@@ -141,13 +141,12 @@ The project was developed over **3 major sprints**:
 | Name | Role | Contributions |
 |------|------|---------------|
 | Ahmed Hegab | Scrum Master | Sprint coordination, backend support, Agile facilitation,Communication Module,Google Maps API |
-| Mohamed Gamal (Jimmy) | Product Owner | Driver Panel, Admin Management, UI Design, Dashboard integration |
-| Maryam Kashif | Business analyst + Backend Developer | Contributed to the development of backend APIs for the Driver module and contributed to writing reports, deliverables, documentation, and project presentations |
+| Mohamed Gamal (Jimmy) | Product Owner | Driver Panel, UI Design, Dashboard integration |
+| Maryam Kashif | Business analyst |contributed to writing reports, deliverables, documentation, and project presentations |
 | Ammar Hassona | Developer | GPS logic, Google Maps API, ETA calculations |
 | Aly Mostafa | Developer | Student dashboard, profile, complaint UI |
 | Omar Badrawy | Developer | Admin dashboard, route editing, student-bus assignment |
 | Abdullah Mohamed | Developer | complaints schema, chat performance tuning |
-| Abdelrahman Ibrahim | Developer |CSV export, permission enforcement |
 
 ## ⌛ Performance Metrics
 
